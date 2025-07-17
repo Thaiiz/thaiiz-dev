@@ -7,9 +7,10 @@ Sobre mim
 * Pós-Graduacao Lato Sensu em Teste de Software - IFAM
 * Graduacao em Analise e Desenvolvimento de Sistemas na UNIASSELVI
 * Estudando python,SQL
-* Explorando novas tecnologias e desenvolvendo soluções de software.
+* Explorando novas tecnologias e desenvolvendo soluções de software :+1:
 
 
-Tecnologias e Feraamentas que estudo
+Tecnologias e Ferramentas que estudo
+
 Algumas das principais ferramentas e linguagens com as quais eu mantenho meus estudos
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,git,vscode,css,cypress,postgresql,r,regex,sublime,html&theme=dark&perline=15)](https://skillicons.dev)
