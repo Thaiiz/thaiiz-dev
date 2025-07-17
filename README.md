@@ -13,6 +13,7 @@ Tenho focado na parte de codificação em python usando APIs, com objetivo de tr
 :link: Tecnologias e linguagens :desktop_computer:
 
 <sup>Algumas das principais ferramentas e linguagens com as quais eu mantenho meus estudos<\sup>
+
 [![My Skills](https://skillicons.dev/icons?i=python,css,r,regex,html,cpp,c&theme=dark&perline=15)](https://skillicons.dev)
 
 :link: Ferramentas de desenvolvimento :hammer_and_wrench:
