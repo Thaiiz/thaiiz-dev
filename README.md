@@ -12,4 +12,4 @@ Sobre mim
 
 Tecnologias e Feraamentas que estudo
 Algumas das principais ferramentas e linguagens com as quais eu mantenho meus estudos
-https://skillicons.dev/icons?i=python,mysql,git,vscode,css,cypress,postgresql,r,regex,sublime,html&theme=dark&perline=15
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,vscode,css,cypress,postgresql,r,regex,sublime,html&theme=dark&perline=15)](https://skillicons.dev)
