@@ -1,4 +1,4 @@
-# :purple_heart: Olá, eu sou a Thaís Carvalho!
+# 💜 Olá, eu sou a Thaís Carvalho ❣️
 
 Desenvolvedora de testes, comprometida a criar soluções simples, funcionais e com propósito.
 Tenho focado na parte de codificação em python usando APIs, com objetivo de transformar meu aprendizado em novos projetos.
@@ -10,12 +10,12 @@ Tenho focado na parte de codificação em python usando APIs, com objetivo de tr
 * :earth_americas: Explorando novas tecnologias e desenvolvendo soluções de software
 
 
-# Tecnologias e linguagens :desktop_computer:
+# :desktop_computer: Tecnologias e linguagens 
 
 <sup>Algumas das principais ferramentas e linguagens com as quais eu mantenho meus estudos 
 
 [![My Skills](https://skillicons.dev/icons?i=python,css,r,regex,html,cpp,c&theme=dark&perline=15)](https://skillicons.dev)
 
-# Ferramentas de desenvolvimento :hammer_and_wrench:
+# :hammer_and_wrench: Ferramentas de desenvolvimento 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,vscode,git,github&theme=dark&perline=15)](https://skillicons.dev)
