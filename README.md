@@ -18,4 +18,4 @@ Tenho focado na parte de codificação em python usando APIs, com objetivo de tr
 
 # :hammer_and_wrench: Ferramentas de desenvolvimento 
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,vscode,git,github&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,vscode,git,github,gitlab&theme=dark&perline=15)](https://skillicons.dev)
