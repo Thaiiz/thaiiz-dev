@@ -6,7 +6,7 @@ Tenho focado na parte de codificação em python usando APIs, com objetivo de tr
 # Sobre mim :shipit:
 * :desktop_computer: Pós-Graduacao Lato Sensu em Teste de Software - IFAM
 * :mortar_board: Graduacao em Analise e Desenvolvimento de Sistemas na UNIASSELVI
-* :books: Estudando playwrite,Ruby Rails.
+* :books: Estudando Playwrite, Ruby e Rails e Java script.
 * :earth_americas: Explorando novas tecnologias e desenvolvendo soluções de software
 
 
