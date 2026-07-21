@@ -6,7 +6,7 @@ Tenho focado na parte de codificação em python usando APIs, com objetivo de tr
 # Sobre mim :shipit:
 * :desktop_computer: Pós-Graduacao Lato Sensu em Teste de Software - IFAM
 * :mortar_board: Graduacao em Analise e Desenvolvimento de Sistemas na UNIASSELVI
-* :books: Estudando python,SQL
+* :books: Estudando playwrite,Ruby Rails.
 * :earth_americas: Explorando novas tecnologias e desenvolvendo soluções de software
 
 
@@ -14,7 +14,7 @@ Tenho focado na parte de codificação em python usando APIs, com objetivo de tr
 
 <sup>Algumas das principais ferramentas e linguagens com as quais eu mantenho meus estudos 
 
-[![My Skills](https://skillicons.dev/icons?i=python,css,r,regex,html,cpp,c&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,css,r,regex,html,javascript&theme=dark&perline=15)](https://skillicons.dev)
 
 # :hammer_and_wrench: Ferramentas de desenvolvimento 
 
